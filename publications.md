@@ -4,9 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-***
 
-#### 2024
+
+### 2024
+***
 
 <div class="container">
     <div class="columns">
