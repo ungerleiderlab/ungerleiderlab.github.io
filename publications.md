@@ -10,9 +10,10 @@ permalink: /publications/
 
 <div class="container">
     <div class="columns">
-  <div class="column is-one-fifth">asdasd</div>
-  <div class="column">
-Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Concha M, Lam M, Bass J, Nguyen TD, Van Otterloo N, Wickramarachchige-Dona N, Wyczechowska D, Morales M, Ma T, Dong Y, Flemington EK. Viral reprogramming of host transcription initiation. Nucleic Acids Res. 2024 May 22;52(9):5016-5032. <a href="https://academic.oup.com/nar/article/52/9/5016/7627474">Link</a>
+          <div class="column is-one-fifth">asdasd</div>
+              <div class="column"> 
+                    <div class="has-text-weight-medium">Viral reprogramming of host transcription initiation</div>
+Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Concha M, Lam M, Bass J, Nguyen TD, Van Otterloo N, Wickramarachchige-Dona N, Wyczechowska D, Morales M, Ma T, Dong Y, Flemington EK. . Nucleic Acids Res. 2024 May 22;52(9):5016-5032. <a href="https://academic.oup.com/nar/article/52/9/5016/7627474">Link</a>
 
   </div>
 </div>
