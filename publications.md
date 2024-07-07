@@ -10,7 +10,7 @@ permalink: /publications/
 
 <div class="container">
     <div class="columns">
-          <div class="column is-one-fifth">asdasd</div>
+          <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/404.jpg" style="width: 400px;"/></div>
               <div class="column"> 
                     <div class="has-text-weight-semibold"><a href="https://academic.oup.com/nar/article/52/9/5016/7627474">Viral reprogramming of host transcription initiation</a></div>
                       <p class="pt-2">
