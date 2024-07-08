@@ -21,7 +21,7 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
 
 </div>
 
-<div class="container">
+<div class="container mt-2">
     <div class="columns">
           <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/dnpromoter_paper.png" style="width: 400px;"/></div>
               <div class="column"> 
