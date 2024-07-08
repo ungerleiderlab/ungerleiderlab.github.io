@@ -167,7 +167,37 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
         <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/clash_ebv.png" style="width: 400px;"/></div>
         <div class="column"> 
             <div class="has-text-weight-semibold"><a href="https://dx.plos.org/10.1371/journal.ppat.1009217"> EBV miRNAs are potent effectors of tumor cell transcriptome remodeling in promoting immune escape</a></div>
-            <p class="pt-2">Ungerleider N, Bullard W, Kara M, Wang X, Roberts C, Renne R, Tibbetts S, Flemington EK.</p> <p class="pt-1"><em>PLOS Pathogens</em></p>
+            <p class="pt-2">Ungerleider N, Bullard W, Kara M, Wang X, Roberts C, Renne R, Tibbetts S, Flemington EK</p> <p class="pt-1"><em>PLOS Pathogens</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304383521000069?via%3Dihub"> Increased transcription and high translation efficiency lead to accumulation of androgen receptor splice variant after androgen deprivation therapy</a></div>
+            <p class="pt-2">Ma T, Bai S, Qi Y, Zhan Y, Ungerleider N, Zhang DY, Neklesa T, Corey E, Dehm SM, Zhang K, Flemington EK, Dong Y</p> <p class="pt-1"><em>Cancer Letters</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://doi.org/10.1038/s41598-021-88489-w"> Ulcerative colitis immune cell landscapes and differentially expressed gene signatures determine novel regulators and predict clinical response to biologic therapy</a></div>
+            <p class="pt-2">Penrose HM, Iftikhar R, Collins ME, Toraih E, Ruiz E, Ungerleider N, Nakhoul H, Flemington EF, Kandil E, Shah SB, Savkovic SD</p> <p class="pt-1"><em>Scientific Reports</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://www.sciencedirect.com/science/article/pii/S2352340921000585?via%3Dihub"> Data of relative mRNA and protein abundances of androgen receptor splice variants in castration-resistant prostate cancer</a></div>
+            <p class="pt-2">Ma T, Ungerleider N, Zhang DY, Corey E, Flemington EK, Dong Y</p> <p class="pt-1"><em>Data in Brief</em></p>
         </div>
     </div>
 </div>
