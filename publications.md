@@ -6,7 +6,7 @@ permalink: /publications/
 
 
 
-<h4 class="title is-4">2024</h4>
+<h4 class="subtitle is-3">2024</h4>
 ***
 <div class="container mt-4">
     <div class="columns  is-flex is-vcentered">
