@@ -22,7 +22,7 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
 
 <div class="container mt-4">
     <div class="columns  is-flex is-vcentered">
-          <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/dn_paper.png" style="width: 400px;"/></div>
+          <div class="column is-one-fifth"></div>
               <div class="column"> 
                     <div class="has-text-weight-semibold"><a href="https://www.nature.com/articles/s41467-024-48333-x">The nucleic acid binding protein SFPQ represses EBV lytic reactivation by promoting histone H1 expression</a></div>
                       <p class="pt-2">
