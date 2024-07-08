@@ -10,7 +10,7 @@ permalink: /publications/
 
 <div class="container">
     <div class="columns">
-          <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/dnpromoter_paper.png" style="width: 400px;"/></div>
+          <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/dn_paper.png" style="width: 400px;"/></div>
               <div class="column"> 
                     <div class="has-text-weight-semibold"><a href="https://academic.oup.com/nar/article/52/9/5016/7627474">Viral reprogramming of host transcription initiation</a></div>
                       <p class="pt-2">
@@ -23,7 +23,7 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
 
 <div class="container mt-4">
     <div class="columns">
-          <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/dnpromoter_paper.png" style="width: 400px;"/></div>
+          <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/dn_paper.png" style="width: 400px;"/></div>
               <div class="column"> 
                     <div class="has-text-weight-semibold"><a href="https://academic.oup.com/nar/article/52/9/5016/7627474">Viral reprogramming of host transcription initiation</a></div>
                       <p class="pt-2">
