@@ -52,10 +52,83 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
 
 <div class="container mt-4">
     <div class="columns  is-flex is-vcentered">
-        <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/splicetools.png" style="height: 125px;"/></div>
+        <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/splicetools.png" style="height: 115px;"/></div>
         <div class="column"> 
             <div class="has-text-weight-semibold"><a href="https://academic.oup.com/nar/article/51/7/e42/7067943">SpliceTools, a suite of downstream RNA splicing analysis tools to investigate mechanisms and impact of alternative splicing</a></div>
             <p class="pt-2">Flemington EK, Flemington SA, O'Grady TM, Baddoo M, Nguyen T, Dong Y, Ungerleider NA</p> <p class="pt-1"><em>Nucleic Acids Research</em></p>
         </div>
     </div>
 </div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://doi.org/10.3389/fimmu.2022.1060114">Reversal of splicing infidelity is a pre-activation step in B cell differentiation</a></div>
+            <p class="pt-2">O'Grady TM, Baddoo M, Flemington SA, Ishaq EY, Ungerleider NA, Flemington EK</p> <p class="pt-1"><em>Frontiers in Immunology</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://doi.org/10.1038/s43018-022-00466-y">Breast cancer cells survive chemotherapy by activating targetable immune-modulatory programs characterized by PD-L1 or CD80</a></div>
+            <p class="pt-2">Shahbandi A, Chiu FY, Ungerleider NA, Kvadas R, Mheidly Z, Sun MJS, Tian D, Waizman DA, Anderson AY, Machado HL, Pursell ZF, Rao SG, Jackson JG</p> <p class="pt-1"><em>Nature Cancer</em></p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://onlinelibrary.wiley.com/doi/10.1002/jha2.580">Establishment and characterization of a new mantle cell lymphoma cell line with a NOTCH2 mutation, Arbo</a></div>
+            <p class="pt-2">Safa F, Rasmussen T, Lobelle-Rich P, Collier S, Milligan N, Schmeig J, Schmid J, Wiewiorowski C, Totaro D, Brown TC, Satyavarapu I, Badoo M, Ungerleider N, Flemington EK, Safah H, Saba NS</p> <p class="pt-1"><em>EJHaem</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://journals.asm.org/doi/10.1128/mbio.00836-22">A Polymorphism in the Epstein-Barr Virus EBER2 Noncoding RNA Drives In Vivo Expansion of Latently Infected B Cells</a></div>
+            <p class="pt-2">Wang Y, Ungerleider N, Hoffman BA, Kara M, Farrell PJ, Flemington EK, Lee N, Tibbetts SA</p> <p class="pt-1"><em>mBio</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://doi.org/10.1038/s41389-022-00395-6">Salt-Inducible Kinase 1 is a potential therapeutic target in Desmoplastic Small Round Cell Tumor</a></div>
+            <p class="pt-2">Hartono AB, Kang HJ, Shi L, Phipps W, Ungerleider N, Giardina A, Chen W, Spraggon L, Somwar R, Moroz K, Drewry DH, Burow ME, Flemington E, Ladanyi M, Lee SB</p> <p class="pt-1"><em>Oncogenesis</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkac013">Analysis of epigenetic features characteristic of L1 loci expressed in human cells</a></div>
+            <p class="pt-2">Freeman B, White T, Kaul T, Stow EC, Baddoo M, Ungerleider N, Morales M, Yang H, Deharo D, Deininger P, Belancio VP</p> <p class="pt-1"><em>Nucleic Acids Research</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://linkinghub.elsevier.com/retrieve/pii/S2211-1247(21)01672-7">Ebola virus delta peptide is an enterotoxin</a></div>
+            <p class="pt-2">Melnik LI, Guha S, Ghimire J, Smither AR, Beddingfield BJ, Hoffmann AR, Sun L, Ungerleider NA, Baddoo MC, Flemington EK, Gallaher WR, Wimley WC, Garry RF</p> <p class="pt-1"><em>Cell Reports</em></p>
+        </div>
+    </div>
+</div>
+
+
