@@ -341,3 +341,44 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
         </div>
     </div>
 </div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://www.cmghjournal.org/article/S2352-345X(18)30148-6/fulltext"> Loss of Forkhead Box O3 Facilitates Inflammatory Colon Cancer: Transcriptome Profiling of the Immune Landscape and Novel Targets</a></div>
+            <p class="pt-2">Penrose HM, Cable C, Heller S, Ungerleider N, Nakhoul H, Baddoo M, Hartono AB, Lee SB, Burow ME, Flemington EF, Crawford SE, Savkovic SD</p> <p class="pt-1"><em>Cellular and Molecular Gastroenterology and Hepatology</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-018-1044-5"> Breast cancer survival predicted by TP53 mutation status differs markedly depending on treatment</a></div>
+            <p class="pt-2">Ungerleider NA, Rao SG, Shahbandi A, Yee D, Niu T, Frey WD, Jackson JG</p> <p class="pt-1"><em>Breast Cancer Research</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://dx.plos.org/10.1371/journal.ppat.1007206">The Epstein Barr virus circRNAome</a></div>
+            <p class="pt-2">Ungerleider N, Concha M, Lin Z, Roberts C, Wang X, Cao S, Baddoo M, Moss WN, Yu Y, Seddon M, Lehman T, Tibbetts S, Renne R, Dong Y, Flemington EK</p> <p class="pt-1"><em>PLOS Pathogens</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://linkinghub.elsevier.com/retrieve/pii/S1936-5233(18)30176-1">p53 Mediates Vast Gene Expression Changes That Contribute to Poor Chemotherapeutic Response in a Mouse Model of Breast Cancer</a></div>
+            <p class="pt-2">Tonnessen-Murray C, Ungerleider NA, Rao SG, Wasylishen AR, Frey WD, Jackson JG</p> <p class="pt-1"><em>Translational Oncology</em></p>
+        </div>
+    </div>
+</div>
+
