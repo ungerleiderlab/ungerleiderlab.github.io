@@ -52,7 +52,7 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
 
 <div class="container mt-4">
     <div class="columns  is-flex is-vcentered">
-        <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/splicetools.png" style="width: 400px;"/></div>
+        <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/splicetools.png" style="height: 200px;"/></div>
         <div class="column"> 
             <div class="has-text-weight-semibold"><a href="https://academic.oup.com/nar/article/51/7/e42/7067943">SpliceTools, a suite of downstream RNA splicing analysis tools to investigate mechanisms and impact of alternative splicing</a></div>
             <p class="pt-2">Flemington EK, Flemington SA, O'Grady TM, Baddoo M, Nguyen T, Dong Y, Ungerleider NA</p> <p class="pt-1"><em>Nucleic Acids Research</em></p>
