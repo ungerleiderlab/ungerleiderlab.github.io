@@ -327,7 +327,17 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
         <div class="column is-one-fifth"></div>
         <div class="column"> 
             <div class="has-text-weight-semibold"><a href="https://journals.lww.com/hep/abstract/2019/04000/a_transforming_growth_factor___and_h19_signaling.24.aspx"> A Transforming Growth Factor-β and H19 Signaling Axis in Tumor-Initiating Hepatocytes That Regulates Hepatic Carcinogenesis</a></div>
-            <p class="pt-2">Zhang J, Han C, Ungerleider N, Chen W, Song K, Wang Y, Kwon H, Ma W, Wu T.</p> <p class="pt-1"><em>Hepatology</em></p>
+            <p class="pt-2">Zhang J, Han C, Ungerleider N, Chen W, Song K, Wang Y, Kwon H, Ma W, Wu T</p> <p class="pt-1"><em>Hepatology</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://journals.asm.org/doi/10.1128/mbio.00071-19">Comparative Analysis of Gammaherpesvirus Circular RNA Repertoires: Conserved and Unique Viral Circular RNAs</a></div>
+            <p class="pt-2">Ungerleider NA, Jain V, Wang Y, Maness NJ, Blair RV, Alvarez X, Midkiff C, Kolson D, Bai S, Roberts C, Moss WN, Wang X, Serfecz J, Seddon M, Lehman T, Ma T, Dong Y, Renne R, Tibbetts SA, Flemington EK</p> <p class="pt-1"><em>Journal of Virology</em></p>
         </div>
     </div>
 </div>
