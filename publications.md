@@ -201,3 +201,57 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
         </div>
     </div>
 </div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://link.springer.com/article/10.1007/s13365-020-00931-3"> Transcriptional signatures of Zika virus infection in astrocytes</a></div>
+            <p class="pt-2">Schouest B, Peterson TA, Szeltner DM, Scheef EA, Baddoo M, Ungerleider N, Flemington EK, MacLean AG, Maness NJ</p> <p class="pt-1"><em>Journal of NeuroVirology</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://link.springer.com/article/10.1007/s13365-020-00931-3"> Transcriptional signatures of Zika virus infection in astrocytes</a></div>
+            <p class="pt-2">Schouest B, Peterson TA, Szeltner DM, Scheef EA, Baddoo M, Ungerleider N, Flemington EK, MacLean AG, Maness NJ</p> <p class="pt-1"><em>Journal of NeuroVirology</em></p>
+        </div>
+    </div>
+</div>
+
+<h4 class="subtitle is-5">2020</h4>
+***
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://aacrjournals.org/cancerres/article-lookup/doi/10.1158/0008-5472.CAN-20-0624"> Cancers from Novel Pole-Mutant Mouse Models Provide Insights into Polymerase-Mediated Hypermutagenesis and Immune Checkpoint Blockade</a></div>
+            <p class="pt-2">Galati MA, Hodel KP, Gams MS, Sudhaman S, Bridge T, Zahurancik WJ, Ungerleider NA, Park VS, Ercan AB, Joksimovic L, Siddiqui I, Siddaway R, Edwards M, de Borja R, Elshaer D, Chung J, Forster VJ, Nunes NM, Aronson M, Wang X, Ramdas J, Seeley A, Sarosiek T, Dunn GP, Byrd JN, Mordechai O, Durno C, Martin A, Shlien A, Bouffet E, Suo Z, Jackson JG, Hawkins CE, Guidos CJ, Pursell ZF, Tabori U</p> <p class="pt-1"><em>Cancer Research</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://doi.org/10.1038/s41418-020-0564-6"> BH3 mimetics selectively eliminate chemotherapy-induced senescent cells and improve response in TP53 wild-type breast cancer</a></div>
+            <p class="pt-2">Shahbandi A, Rao SG, Anderson AY, Frey WD, Olayiwola JO, Ungerleider NA, Jackson JG</p> <p class="pt-1"><em>Cell Death & Differentiation
+</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30313-0">POLE Mutation Spectra Are Shaped by the Mutant Allele Identity, Its Abundance, and Mismatch Repair Status</a></div>
+            <p class="pt-2">Hodel KP, Sun MJS, Ungerleider N, Park VS, Williams LG, Bauer DL, Immethun VE, Wang J, Suo Z, Lu H, McLachlan JB, Pursell ZF</p> <p class="pt-1"><em>Molecular Cell</em></p>
+        </div>
+    </div>
+</div>
