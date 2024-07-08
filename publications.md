@@ -255,3 +255,59 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
         </div>
     </div>
 </div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://dx.plos.org/10.1371/journal.pone.0228160">The long-noncoding RNA MALAT1 regulates TGF-β/Smad signaling through formation of a lncRNA-protein complex with Smads, SETD2 and PPM1A in hepatic cells</a></div>
+            <p class="pt-2">Zhang J, Han C, Song K, Chen W, Ungerleider N, Yao L, Ma W, Wu T</p> <p class="pt-1"><em>PLoS One</em></p>
+        </div>
+    </div>
+</div>
+
+<h4 class="subtitle is-5">2019</h4>
+***
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://rupress.org/jcb/article-lookup/doi/10.1083/jcb.201904051">Chemotherapy-induced senescent cancer cells engulf other cells to enhance their survival</a></div>
+            <p class="pt-2">Tonnessen-Murray CA, Frey WD, Rao SG, Shahbandi A, Ungerleider NA, Olayiwola JO, Murray LB, Vinson BT, Chrisey DB, Lord CJ, Jackson JG</p> <p class="pt-1"><em>Journal of Cell Biology</em></p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://doi.org/10.1038/s41388-019-0947-7">Circular RNAs add diversity to androgen receptor isoform repertoire in castration-resistant prostate cancer</a></div>
+            <p class="pt-2">Cao S, Ma T, Ungerleider N, Roberts C, Kobelski M, Jin L, Concha M, Wang X, Baddoo M, Nguyen HM, Corey E, Fazli L, Ledet E, Zhang R, Silberstein JL, Zhang W, Zhang K, Sartor O, Dong X, Flemington EK, Dong Y</p> <p class="pt-1"><em>Oncogene</em></p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://doi.org/10.1038/s41388-019-0768-8">A positive role of c-Myc in regulating androgen receptor and its splice variants in prostate cancer</a></div>
+            <p class="pt-2">Bai S, Cao S, Jin L, Kobelski M, Schouest B, Wang X, Ungerleider N, Baddoo M, Zhang W, Corey E, Vessella RL, Dong X, Zhang K, Yu X, Flemington EK, Dong Y</p> <p class="pt-1"><em>Oncogene</em></p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2865-7">SpliceV: analysis and publication quality printing of linear and circular RNA splicing, expression and regulation</a></div>
+            <p class="pt-2">Ungerleider N, Flemington E</p> <p class="pt-1"><em>BMC Bioinformatics</em></p>
+        </div>
+    </div>
+</div>
