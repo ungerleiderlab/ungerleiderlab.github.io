@@ -153,7 +153,7 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
 
 <div class="container mt-4">
     <div class="columns  is-flex is-vcentered">
-        <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/ebv_clash.png" style="width: 400px;"/></div>
+        <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/clash_ebv.png" style="width: 400px;"/></div>
         <div class="column"> 
             <div class="has-text-weight-semibold"><a href="https://dx.plos.org/10.1371/journal.ppat.1009217"> EBV miRNAs are potent effectors of tumor cell transcriptome remodeling in promoting immune escape</a></div>
             <p class="pt-2">Ungerleider N, Bullard W, Kara M, Wang X, Roberts C, Renne R, Tibbetts S, Flemington EK.</p> <p class="pt-1"><em>PLOS Pathogens</em></p>
