@@ -382,3 +382,96 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
     </div>
 </div>
 
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://doi.org/10.7554/eLife.32692">Explosive mutation accumulation triggered by heterozygous human Pol ε proofreading-deficiency is driven by suppression of mismatch repair</a></div>
+            <p class="pt-2">Hodel KP, de Borja R, Henninger EE, Campbell BB, Ungerleider N, Light N, Wu T, LeCompte KG, Goksenin AY, Bunnell BA, Tabori U, Shlien A, Pursell ZF</p> <p class="pt-1"><em>eLife</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://www.oncoscience.us/lookup/doi/10.18632/oncoscience.386">In colonic ρ(0) (rho0) cells reduced mitochondrial function mediates transcriptomic alterations associated with cancer</a></div>
+            <p class="pt-2">Penrose HM, Heller S, Cable C, Nakhoul H, Ungerleider N, Baddoo M, Pursell ZF, Flemington EK, Crawford SE, Savkovic SD</p> <p class="pt-1"><em>Oncoscience</em></p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://doi.org/10.1002/mc.22592">TGFβ signaling confers sorafenib resistance via induction of multiple RTKs in hepatocellular carcinoma cells</a></div>
+            <p class="pt-2">Ungerleider N, Han C, Zhang J, Yao L, Wu T</p> <p class="pt-1"><em>Molecular Carcinogenesis</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://academic.oup.com/endo/article-lookup/doi/10.1210/en.2015-1167">Activins A and B Regulate Fate-Determining Gene Expression in Islet Cell Lines and Islet Cells From Male Mice</a></div>
+            <p class="pt-2">Andrzejewski D, Brown ML, Ungerleider N, Burnside A, Schneyer AL</p> <p class="pt-1"><em>Endocrinology</em></p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://www.tandfonline.com/doi/full/10.1080/19382014.2015.1017226">Effects of activin A on survival, function and gene expression of pancreatic islets from non-diabetic and diabetic human donors</a></div>
+            <p class="pt-2">Brown ML, Ungerleider N, Bonomi L, Andrzejewski D, Burnside A, Schneyer A</p> <p class="pt-1"><em>Islets</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://academic.oup.com/endo/article-lookup/doi/10.1210/en.2012-1844">Increased activin bioavailability enhances hepatic insulin sensitivity while inducing hepatic steatosis in male mice</a></div>
+            <p class="pt-2">Ungerleider NA, Bonomi LM, Brown ML, Schneyer AL</p> <p class="pt-1"><em>Endocrinology</em></p>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://journals.physiology.org/doi/full/10.1152/ajpendo.00177.2012">Activin B regulates islet composition and islet mass but not whole body glucose homeostasis or insulin sensitivity</a></div>
+            <p class="pt-2">Bonomi L, Brown M, Ungerleider N, Muse M, Matzuk MM, Schneyer A</p> <p class="pt-1"><em>American Journal of Physiology-Endocrinology and Metabolism</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://www.tandfonline.com/doi/full/10.4161/isl.3.6.18013">Differential synthesis and action of TGFß superfamily ligands in mouse and rat islets</a></div>
+            <p class="pt-2">Brown ML, Kimura F, Bonomi LM, Ungerleider NA, Schneyer AL</p> <p class="pt-1"><em>Islets</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://onlinelibrary.wiley.com/doi/10.1038/oby.2011.97">Follistatin and follistatin like-3 differentially regulate adiposity and glucose homeostasis</a></div>
+            <p class="pt-2">Brown ML, Bonomi L, Ungerleider N, Zina J, Kimura F, Mukherjee A, Sidis Y, Schneyer A</p> <p class="pt-1"><em>Obesity</em></p>
+        </div>
+    </div>
+</div>
