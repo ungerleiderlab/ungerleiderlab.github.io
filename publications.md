@@ -131,4 +131,32 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
     </div>
 </div>
 
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://doi.org/10.1038/s41417-020-00262-9">SON inhibits megakaryocytic differentiation via repressing RUNX1 and the megakaryocytic gene expression program in acute megakaryoblastic leukemia</a></div>
+            <p class="pt-2">Vukadin L, Kim JH, Park EY, Stone JK, Ungerleider N, Baddoo MC, Kong HK, Richard A, Tran J, Giannini H, Flemington EK, Lim SS, Ahn EE</p> <p class="pt-1"><em>Cancer Gene Therapy</em></p>
+        </div>
+    </div>
+</div>
 
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkab369">Organ-, sex- and age-dependent patterns of endogenous L1 mRNA expression at a single locus resolution</a></div>
+            <p class="pt-2">Stow EC, Kaul T, deHaro DL, Dem MR, Beletsky AG, Morales ME, Du Q, LaRosa AJ, Yang H, Smither E, Baddoo M, Ungerleider N, Deininger P, Belancio VP</p> <p class="pt-1"><em>Nucleic Acids Research</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/ebv_clash.png" style="width: 400px;"/></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://dx.plos.org/10.1371/journal.ppat.1009217"> EBV miRNAs are potent effectors of tumor cell transcriptome remodeling in promoting immune escape</a></div>
+            <p class="pt-2">Ungerleider N, Bullard W, Kara M, Wang X, Roberts C, Renne R, Tibbetts S, Flemington EK.</p> <p class="pt-1"><em>PLOS Pathogens</em></p>
+        </div>
+    </div>
+</div>
