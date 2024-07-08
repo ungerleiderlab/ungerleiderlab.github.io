@@ -6,8 +6,8 @@ permalink: /publications/
 
 
 
-### 2024
-
+<h4 class="title is-4">2024</h4>
+***
 <div class="container mt-4">
     <div class="columns  is-flex is-vcentered">
           <div class="column is-one-fifth"><img src="{{ site.baseurl }}/images/dn_paper.png" style="width: 400px;"/></div>
