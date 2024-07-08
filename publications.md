@@ -34,9 +34,18 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
     <div class="columns  is-flex is-vcentered">
         <div class="column is-one-fifth"></div>
         <div class="column"> 
-            <div class="has-text-weight-semibold"><a href="https://journals.physiology.org/doi/abs/10.1152/ajpgi.00066.2023?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org">Alterations in gene expression and microbiome composition upon calcium-sensing receptor deletion in the mouse esophagus
-</a></div>
+            <div class="has-text-weight-semibold"><a href="https://journals.physiology.org/doi/abs/10.1152/ajpgi.00066.2023?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org">Alterations in gene expression and microbiome composition upon calcium-sensing receptor deletion in the mouse esophagus</a></div>
             <p class="pt-2">Abdulnour-Nakhoul SM, Kolls JK, Flemington EK, Ungerleider NA, Nakhoul HN, Song K, Nakhoul NL</p> <p class="pt-1"><em>American Journal of Physiology-Gastrointestinal and Liver Physiology</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://academic.oup.com/jnci/article-lookup/doi/10.1093/jnci/djad215">Loss of feedback regulation between FAM3B and androgen receptor driving prostate cancer progression</a></div>
+            <p class="pt-2">Ma T, Jin L, Bai S, Liu Z, Wang S, Shen B, Cho Y, Cao S, Sun MJS, Fazli L, Zhang D, Wedderburn C, Zhang DY, Mugon G, Ungerleider N, Baddoo M, Zhang K, Schiavone LH, Burkhardt BR, Fan J, You Z, Flemington EK, Dong X, Dong Y</p> <p class="pt-1"><em>Journal of the National Cancer Institute</em></p>
         </div>
     </div>
 </div>
