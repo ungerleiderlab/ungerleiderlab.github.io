@@ -22,12 +22,21 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
 
 <div class="container mt-4">
     <div class="columns  is-flex is-vcentered">
-          <div class="column is-one-fifth"></div>
-              <div class="column"> 
-                    <div class="has-text-weight-semibold"><a href="https://www.nature.com/articles/s41467-024-48333-x">The nucleic acid binding protein SFPQ represses EBV lytic reactivation by promoting histone H1 expression</a></div>
-                      <p class="pt-2">
-Murray-Nerger LA, Lozano C, Burton EM, Liao Y, Ungerleider NA, Guo R, Gewurz BE </p> <p class="pt-1"><em>Nature Communications</em>
-                      </p>
-              </div>
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://www.nature.com/articles/s41467-024-48333-x">The nucleic acid binding protein SFPQ represses EBV lytic reactivation by promoting histone H1 expression</a></div>
+            <p class="pt-2">Murray-Nerger LA, Lozano C, Burton EM, Liao Y, Ungerleider NA, Guo R, Gewurz BE </p> <p class="pt-1"><em>Nature Communications</em></p>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-4">
+    <div class="columns  is-flex is-vcentered">
+        <div class="column is-one-fifth"></div>
+        <div class="column"> 
+            <div class="has-text-weight-semibold"><a href="https://journals.physiology.org/doi/abs/10.1152/ajpgi.00066.2023?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org">Alterations in gene expression and microbiome composition upon calcium-sensing receptor deletion in the mouse esophagus
+</a></div>
+            <p class="pt-2">Abdulnour-Nakhoul SM, Kolls JK, Flemington EK, Ungerleider NA, Nakhoul HN, Song K, Nakhoul NL</p> <p class="pt-1"><em>American Journal of Physiology-Gastrointestinal and Liver Physiology</em></p>
+        </div>
     </div>
 </div>
