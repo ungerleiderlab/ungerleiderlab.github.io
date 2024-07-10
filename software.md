@@ -6,10 +6,12 @@ permalink: /software/
 
 <div class="content">
 <div class="columns">
-<div class="column is-four-fifths">
+
 <h4>SpliceTools</h4>
 <p>A tool to help interpret global splicing alterations (using RNA Sequencing data). SpliceTools can be used to explore similarities between input experimental data and splicing alterations detected following the individual knockdown of 150  RNA binding proteins (raw sequencing data obtained from <a href="https://www.encodeproject.org/">ENCODE</a>). </p>
+<div class="column is-four-fifths">
 <p>
+  
 Modules:
 <ul>
   <li>Splice site scoring</li>
