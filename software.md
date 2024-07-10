@@ -27,10 +27,16 @@ Modules:
 <i class="fa fa-github"></i><a href="https://github.com/flemingtonlab/SpliceTools"> Source code</a>
 </div>
 
-<div class="column is-two-fifths">
+<div class="column is-one-third">
 <figure>
 <img alt="splicesite_score_graphic" src="https://github.com/ungerleiderlab/ungerleiderlab.github.io/assets/174884808/6374c882-db32-4dde-b4b0-b799316ef4c2"/>
 </figure>
 </div>
+<div class="column is-one-third">
+<figure>
+![image](https://github.com/ungerleiderlab/ungerleiderlab.github.io/assets/174884808/8abee581-8835-4311-85a9-0d57ce98a583)
+</figure>
 </div>
 </div>
+</div>
+
