@@ -13,6 +13,7 @@ permalink: /software/
 
 <p>  
 Modules:
+</p>
 <div class="column">
 <ul>
   <li>Splice site scoring</li>
@@ -25,7 +26,6 @@ Modules:
 </ul>
 <a href="https://splicetools.org">SpliceTools.org</a><br>
 <i class="fa fa-github"></i><a href="https://github.com/flemingtonlab/SpliceTools"> Source code</a>
-</p>
 </div>
 
 <div class="column">
@@ -33,6 +33,5 @@ Modules:
 <img alt="splicesite_score_graphic" src="https://github.com/ungerleiderlab/ungerleiderlab.github.io/assets/174884808/6374c882-db32-4dde-b4b0-b799316ef4c2"/>
 </figure>
 </div>
-
 </div>
 </div>
