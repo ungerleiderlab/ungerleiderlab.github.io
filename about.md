@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+The lab is launching August 1, 2024! We will be in the Department of Molecular Microbiology and Immunology at Saint Louis University.
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+nathan dot ungerleider at health.slu.edu
