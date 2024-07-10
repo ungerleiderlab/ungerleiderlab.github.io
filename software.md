@@ -4,8 +4,21 @@ title: Software
 permalink: /software/
 ---
 
+<div class="content">
 <h4><b>SpliceTools</b></h4>
-<br>
-<p>A tool to help interpret global splicing alterations (using RNA Sequencing data).</p>
+<p>A tool to help interpret global splicing alterations (using RNA Sequencing data).<br>
+Modules:
+<ul>
+  <li>Splice site scoring</li>
+  <li>Intron/Exon sizes</li>
+  <li>Fraction of genes altered</li>
+  <li>Novel (unnanotated) splicing alterations</li>
+  <li>Comparison to RNA binding protein knockdown experiments</li>
+  <li>Predicted neopeptides</li>
+  <li>Nonsense-mediated decay</li>
+</ul>
+
 <a href="https://splicetools.org">SpliceTools.org</a><br>
-<i class="fa fa-github"></i><a href="https://github.com/flemingtonlab/SpliceTools">GitHub</a>
+<i class="fa fa-github"></i><a href="https://github.com/flemingtonlab/SpliceTools"> Source code</a>
+</p>
+</div>
