@@ -7,13 +7,13 @@ permalink: /software/
 <div class="content">
 
 <h4>SpliceTools</h4>
-<p>A tool to help interpret global splicing alterations (using RNA Sequencing data). SpliceTools can be used to explore similarities between input experimental data and splicing alterations detected following the individual knockdown of 150  RNA binding proteins (raw sequencing data obtained from <a href="https://www.encodeproject.org/">ENCODE</a>).<br>
-Modules:
-</p>
+<p>A tool to help interpret global splicing alterations (using RNA Sequencing data). SpliceTools can be used to explore similarities between input experimental data and splicing alterations detected following the individual knockdown of 150  RNA binding proteins (raw sequencing data obtained from <a href="https://www.encodeproject.org/">ENCODE</a>).</p>
+
 <div class="columns">
 
 
 <div class="column">
+Modules:
 <ul>
   <li>Splice site scoring</li>
   <li>Intron/Exon sizes</li>
@@ -27,7 +27,7 @@ Modules:
 <i class="fa fa-github"></i><a href="https://github.com/flemingtonlab/SpliceTools"> Source code</a>
 </div>
 
-<div class="column">
+<div class="column is-two-thirds">
 <figure>
 <img alt="splicesite_score_graphic" src="https://github.com/ungerleiderlab/ungerleiderlab.github.io/assets/174884808/6374c882-db32-4dde-b4b0-b799316ef4c2"/>
 </figure>
