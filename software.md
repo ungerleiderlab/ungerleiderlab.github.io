@@ -34,7 +34,8 @@ Modules:
 </div>
 <div class="column is-one-third">
 <figure>
-![image](https://github.com/ungerleiderlab/ungerleiderlab.github.io/assets/174884808/2042f36b-c5f5-42e5-bde2-fe970176a8d7)
+<img alt="splicecompare_graphic" src="{{ site.baseurl }}/images/splicecompare.png">
+
 
 </figure>
 </div>
