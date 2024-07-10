@@ -31,8 +31,8 @@ Modules:
 </div>
 
 <div class="column is-one-quarter">
-<figure class="image is-128x128">
-<img width="861" alt="splicesite_score_graphic" src="https://github.com/ungerleiderlab/ungerleiderlab.github.io/assets/174884808/6374c882-db32-4dde-b4b0-b799316ef4c2">
+<figure>
+<img alt="splicesite_score_graphic" src="https://github.com/ungerleiderlab/ungerleiderlab.github.io/assets/174884808/6374c882-db32-4dde-b4b0-b799316ef4c2"/>
 </figure>
 
 </div>
