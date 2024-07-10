@@ -5,8 +5,9 @@ permalink: /software/
 ---
 
 <div class="content">
-<h4><b>SpliceTools</b></h4>
-<p>A tool to help interpret global splicing alterations (using RNA Sequencing data).<br>
+<h4>SpliceTools</h4>
+<p>A tool to help interpret global splicing alterations (using RNA Sequencing data).</p>
+  <p>
 Modules:
 <ul>
   <li>Splice site scoring</li>
@@ -17,7 +18,8 @@ Modules:
   <li>Predicted neopeptides</li>
   <li>Nonsense-mediated decay</li>
 </ul>
-
+</p>
+  <p>
 <a href="https://splicetools.org">SpliceTools.org</a><br>
 <i class="fa fa-github"></i><a href="https://github.com/flemingtonlab/SpliceTools"> Source code</a>
 </p>
