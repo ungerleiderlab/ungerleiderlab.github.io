@@ -34,7 +34,8 @@ Modules:
 </div>
 <div class="column is-one-third">
 <figure>
-![image](https://github.com/ungerleiderlab/ungerleiderlab.github.io/assets/174884808/8abee581-8835-4311-85a9-0d57ce98a583)
+![image](https://github.com/ungerleiderlab/ungerleiderlab.github.io/assets/174884808/2042f36b-c5f5-42e5-bde2-fe970176a8d7)
+
 </figure>
 </div>
 </div>
