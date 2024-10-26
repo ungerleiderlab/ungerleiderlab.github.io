@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="has-navbar-fixed-top">
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
@@ -19,7 +19,7 @@
   </head>
 
   <body>
-    <nav class="navbar" role="navigation" aria-label="main navigation">
+<nav class="navbar is-fixed-top">
 
   <div class="navbar-brand">
      <h1 class="site-name"><a class="navbar-item" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
