@@ -3,15 +3,16 @@
   <head>
     <title>Ungerleider Lab</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Dancing+Script:wght@400..700&family=Indie+Flower&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Dancing+Script:wght@400..700&family=Indie+Flower&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css">
   </head>
   <style>
 body {
-  font-family: "Cormorant Infant", sans-serif;
-  font-weight: 600
+  font-family: "Libre Baskerville", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
 }
 </style>
   <body>
@@ -30,7 +31,7 @@ body {
       </div>
     </div>
     <div class="navbar-end">
-         <a class="navbar-item is-size-4" href="#projects" style="font-weight:600;">Projects</a>
+        <!-- <a class="navbar-item is-size-4" href="#projects">Projects</a> -->
          <a class="navbar-item is-size-4" href="#software">Software</a>
          <a class="navbar-item is-size-4" href="#publications">Publications</a>
          <a class="navbar-item is-size-4" href="#people">People</a>
@@ -47,27 +48,31 @@ body {
       <p class="has-text-justified">Our lab studies the Epstein Barr Virus, a tumor-associated pathogen that has established a lifelong infection in nearly the entire world's population. EBV promotes the long-term survival and proliferation of host cells and is a causal factor in a number of lymphomas and epithelial cancers. We are interested in how EBV replicates, how infection drives tumorigenesis, and targetable vulnerabilities in EBV-associated cancers. </p>
       </div>
     </section>
-    
+<!--     
     <section class="section">      
       <div id="projects" class="container">
       <h4 class="title is-4" ><strong>Projects</strong></h4>
       <hr>
       </div>
-    </section>
+    </section> -->
 
     
     <section class="section">
     <div id="software" class="container">
-    <h4 class="title is-4 has-text-weight-semibold" style="font-variant:small-caps;font-weight:600;"><strong>Software</strong></h4>
-    <hr>
+        <h4 class="title is-4" ><strong>Software</strong></h4>
+        <hr>
       
         <div class="content">
-
         <h5 class="title is-5"><strong>SpliceTools</strong></h5>
-        <p>A tool to help interpret global splicing alterations (using RNA Sequencing data). SpliceTools can be used to explore similarities between input experimental data and splicing alterations detected following the individual knockdown of nearly 150  RNA binding proteins (raw sequencing data obtained from <a href="https://www.encodeproject.org/">ENCODE</a>).</p>
+
+        <div class="columns  is-flex is-vcentered">
+        <div class="column is-1"></div>
+        <div class="column"> 
+        <p class="has-text-justified">A tool to help interpret global splicing alterations (using RNA Sequencing data). SpliceTools can be used to explore similarities between input experimental data and splicing alterations detected following the individual knockdown of nearly 150  RNA binding proteins (raw sequencing data obtained from <a href="https://www.encodeproject.org/">ENCODE</a>).</p>
 
         <div class="columns">
         <div class="column">
+            <br>
         Modules:
         <ul>
         <li>Splice site scoring</li>
@@ -98,11 +103,16 @@ body {
         </div>
         </div>
                 </div>
-
+        </div>
+        </div>
         <div class="content">
-        <br><br><br>
+        <br><br>
         <h5 class="title is-5"><strong>SpliceV</strong></h5>
-        <p>A graphical tool that can be used to study transcript structure. SpliceV plots coverage, canonical, and backsplice junctions (circleRNAs) from traditional short read RNA-sequencing alignment files</p>
+
+        <div class="columns  is-flex is-vcentered">
+            <div class="column is-1"></div>
+            <div class="column"> 
+        <p>A graphical tool that can be used to study transcript structure. SpliceV plots coverage, canonical splice junctions, and backsplice junctions (circleRNAs) from traditional short read RNA-sequencing alignment files</p>
 
         <div class="columns">
         <div class="column">
@@ -126,7 +136,8 @@ body {
                 </div>
 
 
-      
+      </div>
+      </div>
             </div>
             </section>
     <section class="section">
@@ -683,7 +694,7 @@ Ungerleider NA, Roberts C, O'Grady TM, Nguyen TT, Baddoo M, Wang J, Ishaq E, Con
       <div id="news" class="container">
       <h4 class="title is-4"> <strong>News</strong> </h4>
       <hr>
-        <p><strong>The Ungerleider Lab just launched (August, 2024)! We are in the Department of Molecular Microbiology and Immunology at Saint Louis University School of Medicine.</strong></p>
+        <p>The Ungerleider Lab just launched (August, 2024)! We are in the Department of Molecular Microbiology and Immunology at Saint Louis University School of Medicine.</p>
       </div>
     </section>
 
